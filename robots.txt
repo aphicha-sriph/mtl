@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /mtl/
+Disallow: /mtl/brochures/

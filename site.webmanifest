@@ -1,0 +1,12 @@
+{
+  "name": "MTL ชีวิตที่ออกแบบได้ — ประกันชีวิต เมืองไทยประกันชีวิต",
+  "short_name": "MTL ประกัน",
+  "description": "เปรียบเทียบประกันชีวิต ประกันสุขภาพ โรคร้ายแรง ออมทรัพย์ บำนาญ อุบัติเหตุ จากเมืองไทยประกันชีวิต เช็คเบี้ย สิทธิลดหย่อนภาษี",
+  "lang": "th",
+  "start_url": "/mtl/",
+  "scope": "/mtl/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e0006d",
+  "icons": [{ "src": "/mtl/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
