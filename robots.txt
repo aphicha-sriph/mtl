@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /mtl/
 Disallow: /mtl/brochures/
+Sitemap: https://aphicha-sriph.github.io/mtl/sitemap.xml
