@@ -1,0 +1,38 @@
+{
+	http_port 80
+	admin off
+}
+
+:80 {
+	handle /mtl {
+		redir /mtl/ permanent
+	}
+
+	handle /mtl/* {
+		encode gzip zstd
+
+		header /mtl/assets/* {
+			Cache-Control "public, max-age=31536000, immutable"
+		}
+		header /mtl/fonts/* {
+			Cache-Control "public, max-age=31536000, immutable"
+		}
+		header /mtl/images/* {
+			Cache-Control "public, max-age=604800, stale-while-revalidate=86400"
+		}
+		header /mtl/brochures/* {
+			Cache-Control "public, max-age=604800"
+		}
+		header /mtl/*.html {
+			Cache-Control "public, max-age=0, must-revalidate"
+		}
+		header {
+			X-Content-Type-Options nosniff
+			X-Frame-Options SAMEORIGIN
+			Referrer-Policy strict-origin-when-cross-origin
+			Permissions-Policy "camera=(), microphone=(), geolocation=()"
+		}
+
+		reverse_proxy localhost:5173
+	}
+}

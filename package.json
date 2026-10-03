@@ -1,0 +1,37 @@
+{
+  "name": "mtl-product-showcase",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "prebuild": "node scripts/generate-product-detail-display.mjs",
+    "dev": "vite",
+    "build": "npm run typecheck && npm run details:source:validate && npm run build:client && npm run build:ssr && npm run prerender && npm run details:validate",
+    "build:client": "vite build",
+    "build:ssr": "vite build --ssr src/entry-server.tsx --outDir .prerender",
+    "prerender": "node scripts/prerender.mjs",
+    "seo:validate": "node scripts/validate-seo.mjs",
+    "brochures:sync": "node scripts/sync-brochures.mjs",
+    "brochures:verify": "node scripts/sync-brochures.mjs --verify",
+    "details:validate": "node scripts/validate-product-details.mjs",
+    "details:source:validate": "node scripts/validate-product-detail-source.mjs",
+    "details:sync": "node scripts/generate-product-detail-display.mjs",
+    "details:research": "node scripts/research/generate-muangthai-product-detail-content.mjs",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.node.json"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.22",
+    "@types/node": "^22.15.30",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7"
+  }
+}

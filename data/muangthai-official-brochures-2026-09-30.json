@@ -1,0 +1,234 @@
+{
+  "snapshot_date": "2026-09-30",
+  "source_owner": "Muang Thai Life Assurance Public Company Limited",
+  "base_url": "https://www.muangthai.co.th",
+  "source_note": "Official brochure URLs were captured from visible Download Brochure links on official product pages. Where a brochure was unavailable, three official Online MTL product-information PDFs are included and labeled separately. For the three names retained in no_official_pdf_found, locally authored summaries derived from the listed official product pages are included for convenience; they are not official Muang Thai Life brochures or policy documents.",
+  "no_official_pdf_found": [
+    "โครงการ เมืองไทย วัยเก๋า อุ่นใจหายห่วง (เพื่อผู้สูงอายุ)",
+    "โครงการ เมืองไทยวัยเก๋า คุ้มทั่วไทย (เพื่อผู้สูงอายุ)",
+    "เมืองไทย SME 20 plus"
+  ],
+  "items": [
+    {
+      "name": "เมืองไทย เฟล็กซี่ โพรเทคชั่น",
+      "brochure_path": "/filestorage/brochures/20260122-2-02-04-0861_%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B9%80%E0%B8%9F%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%20%E0%B9%82%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%2099-5.pdf",
+      "local_file": "flexi-protection.pdf"
+    },
+    {
+      "name": "เมืองไทย ไลฟ์ไทม์ โพรเทคชั่น 99/20",
+      "brochure_path": "/filestorage/brochures/20251126-04-0343%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B9%8C%20%E0%B9%82%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%2099-20.pdf",
+      "local_file": "lifetime-protection-99-20.pdf"
+    },
+    {
+      "name": "โครงการ เมืองไทย วัยเก๋า อุ่นใจหายห่วง (เพื่อผู้สูงอายุ)",
+      "kind": "local_summary",
+      "source_url": "https://www.muangthai.co.th/th/whole-life-insurance/senior_hbpa",
+      "local_file": "senior-hbpa-product-summary.pdf"
+    },
+    {
+      "name": "โครงการ เมืองไทยวัยเก๋า คุ้มทั่วไทย (เพื่อผู้สูงอายุ)",
+      "kind": "local_summary",
+      "source_url": "https://www.muangthai.co.th/th/whole-life-insurance/senior-waigao",
+      "local_file": "senior-waigao-product-summary.pdf"
+    },
+    {
+      "name": "เมืองไทย สมาร์ท โพรเทคชั่น 99/20",
+      "brochure_path": "/filestorage/brochures/20250630-04-0174%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B9%82%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%2099-20.pdf",
+      "local_file": "smart-protection-99-20.pdf"
+    },
+    {
+      "name": "เมืองไทย แฮปปี้ รีเทิร์น 99/7",
+      "brochure_path": "/filestorage/brochures/04-0002%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B9%81%E0%B8%AE%E0%B8%9B%E0%B8%9B%E0%B8%B5%E0%B9%89%20%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99%2099-7_01.03.65.pdf",
+      "local_file": "happy-return-99-7.pdf"
+    },
+    {
+      "name": "ดี เฮลท์ ไลต์",
+      "brochure_path": "/filestorage/brochures/20260407-04-0847_DHealthLitePPO_TH-Smallfile.pdf",
+      "local_file": "d-health-lite.pdf"
+    },
+    {
+      "name": "อีลิท เฮลท์ พลัส",
+      "brochure_path": "/filestorage/brochures/04-0480_%20EliteHealthPlus_TH_20250221.pdf",
+      "local_file": "elite-health-plus.pdf"
+    },
+    {
+      "name": "ประกันสุขภาพเหมาจ่าย เอ็กซ์ตร้า",
+      "brochure_path": "/filestorage/brochures/04-0470%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%20%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%95%E0%B8%A3%E0%B9%89%E0%B8%B2%20(N)_TH_20250221.pdf",
+      "local_file": "maochai-extra.pdf"
+    },
+    {
+      "name": "โอพีดีต่อครั้ง และ โอพีดีเหมาจ่าย",
+      "brochure_path": "/filestorage/brochures/Brochure_OPD%20PT%20vs%20OPD%20MC.pdf",
+      "local_file": "opd.pdf"
+    },
+    {
+      "name": "เอ็กซ์ตร้าแคร์ พลัส",
+      "brochure_path": "/filestorage/brochures/04-0469_Extra%20Care%20Plus_TH_20250128.pdf",
+      "local_file": "extra-care-plus.pdf"
+    },
+    {
+      "name": "ประกันสุขภาพเด็ก (D Health Lite)",
+      "brochure_path": "/filestorage/brochures/20260407-04-0847_DHealthLitePPO_TH-Smallfile.pdf",
+      "local_file": "d-health-lite.pdf"
+    },
+    {
+      "name": "ซีไอ เพอร์เฟค แคร์",
+      "brochure_path": "/filestorage/brochures/04-0351_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%20%E0%B8%8B%E0%B8%B5%E0%B9%84%E0%B8%AD%20%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9F%E0%B8%84%20%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C.pdf",
+      "local_file": "ci-perfect-care.pdf"
+    },
+    {
+      "name": "มัลติเพิล ซีไอ",
+      "brochure_path": "/filestorage/brochures/04-0234%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%20%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%A5%20%E0%B8%8B%E0%B8%B5%E0%B9%84%E0%B8%AD.pdf",
+      "local_file": "multiple-ci.pdf"
+    },
+    {
+      "name": "ดี แคร์",
+      "brochure_path": "/filestorage/brochures/04-0457_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%87%20%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C.pdf",
+      "local_file": "d-care.pdf"
+    },
+    {
+      "name": "แคร์ พลัส",
+      "brochure_path": "/filestorage/brochures/04-0485_CarePlus_CI.pdf",
+      "local_file": "care-plus.pdf"
+    },
+    {
+      "name": "สมาร์ท ซิลเวอร์ และ สมาร์ท ซิลเวอร์ พลัส",
+      "brochure_path": "/filestorage/brochures/04-0484_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%AA_TH_20240123.pdf",
+      "local_file": "smart-silver.pdf"
+    },
+    {
+      "name": "คิดส์ แคร์",
+      "brochure_path": "/filestorage/brochures/04-0486_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%87%20%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B9%8C%20%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C_TH.pdf",
+      "local_file": "kids-care.pdf"
+    },
+    {
+      "name": "เพียว แคนเซอร์ และ สัญญาเพิ่มเติมความคุ้มครองมะเร็ง",
+      "brochure_path": "/filestorage/brochures/04-0520%20%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A7%20%E0%B9%81%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.pdf",
+      "local_file": "pure-cancer.pdf"
+    },
+    {
+      "name": "เมืองไทย 9901 ดี65",
+      "brochure_path": "/filestorage/brochures/04-0479-9901D65.pdf",
+      "local_file": "9901-d65.pdf"
+    },
+    {
+      "name": "เฟล็กซี่ รีไทร์ 90/5 ดี55 ดี60 ดี65",
+      "brochure_path": "/filestorage/brochures/04-0517_Flexi-Retire%2090-5_20240524.pdf",
+      "local_file": "flexi-retire.pdf"
+    },
+    {
+      "name": "เมืองไทย สมาร์ท ลิงค์ โปร 10/1 (Global) Index-Linked",
+      "brochure_path": "/filestorage/brochures/20260731-04-0488%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%20%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B9%82%E0%B8%9B%E0%B8%A3%2010-1%20Global.pdf",
+      "local_file": "smart-linked-pro-10-1-global.pdf"
+    },
+    {
+      "name": "เมืองไทย สมาร์ท อินเด็กซ์ 15/6 (Global) ซีรีส์",
+      "brochure_path": "/filestorage/brochures/20260731-04-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%2015-6%20Global.pdf",
+      "local_file": "smart-index-15-6-global.pdf"
+    },
+    {
+      "name": "เมืองไทย สมาร์ท อินเด็กซ์ 15/3 (Global)",
+      "brochure_path": "/filestorage/brochures/20260702-04-0858_%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%2015-3%20%20%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B5%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%20Index-Linked_compressed.pdf",
+      "local_file": "smart-index-15-3-global.pdf"
+    },
+    {
+      "name": "เมืองไทย เพอร์เฟค เซฟวิ่ง 11/5",
+      "kind": "product_info",
+      "source_url": "https://cdn-ols.muangthai.co.th/bo/product-information/11-5_mtl_33.pdf",
+      "local_file": "perfect-saving-11-5-product-info.pdf"
+    },
+    {
+      "name": "เมืองไทย ซุปเปอร์ เซฟเวอร์ 25/16",
+      "brochure_path": "/filestorage/brochures/MTL-Muangthai-Super-Saver-25-16.pdf",
+      "local_file": "super-saver-25-16.pdf"
+    },
+    {
+      "name": "เมืองไทย อีซี่ แพลน 11/1",
+      "kind": "product_info",
+      "source_url": "https://cdn-ols.muangthai.co.th/bo/product-information/11-1_mtl_129.pdf",
+      "local_file": "easy-plan-11-1-product-info.pdf"
+    },
+    {
+      "name": "PA Pay Max",
+      "brochure_path": "/filestorage/brochures/04-0525%20%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%20PA%20Pay%20Max_TH%20_01.01.2026.pdf",
+      "local_file": "pa-pay-max.pdf"
+    },
+    {
+      "name": "PA Easy Plan Rider",
+      "brochure_path": "/filestorage/brochures/20251112-04-0856_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8CPA%20Easy%20Plan%20Rider_compressed.pdf",
+      "local_file": "pa-easy-plan-rider.pdf"
+    },
+    {
+      "name": "PA Take Care",
+      "brochure_path": "/filestorage/brochures/04-0495%20Brochure%20PA%20Take%20Care_18.09.66.pdf",
+      "local_file": "pa-take-care.pdf"
+    },
+    {
+      "name": "PA Return Cash",
+      "brochure_path": "/filestorage/brochures/04-0315_PA%20Return%20Cash_20240404.pdf",
+      "local_file": "pa-return-cash.pdf"
+    },
+    {
+      "name": "PA Broken Bone",
+      "brochure_path": "/filestorage/brochures/04-0275_PA-BrokenBone_221117.pdf",
+      "local_file": "pa-broken-bone.pdf"
+    },
+    {
+      "name": "PA Go",
+      "kind": "product_info",
+      "source_url": "https://cdn-ols.muangthai.co.th/bo/product-information/condition/image_18a9927fa0443b05ddaa8920c2eff13a.pdf",
+      "local_file": "pa-go-product-info.pdf"
+    },
+    {
+      "name": "mDesign",
+      "brochure_path": "/filestorage/brochures/20260407_04-0427%20mDesign_TH.pdf",
+      "local_file": "mdesign.pdf"
+    },
+    {
+      "name": "mOnePlus",
+      "brochure_path": "/filestorage/brochures/20260407_04-0455_mOnePlus_TH.pdf",
+      "local_file": "moneplus.pdf"
+    },
+    {
+      "name": "mGrow 615",
+      "brochure_path": "/filestorage/brochures/20260407_04-0467_mGrow615_TH.pdf",
+      "local_file": "mgrow615.pdf"
+    },
+    {
+      "name": "เมืองไทยยูแอล พลัส",
+      "brochure_path": "/filestorage/brochures/04-0464%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2%E0%B8%B9%E0%B9%81%E0%B8%AD%E0%B8%A5%20%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%AA_TH-30062026.pdf",
+      "local_file": "muangthai-ul-plus.pdf"
+    },
+    {
+      "name": "เมืองไทย SME 20 plus",
+      "kind": "local_summary",
+      "source_url": "https://www.muangthai.co.th/th/group-insurance/sme-20-plus",
+      "local_file": "sme-20-plus-product-summary.pdf"
+    },
+    {
+      "name": "Small Group & Housekeeping Package",
+      "brochure_path": "/filestorage/brochures/040466Package%20Small%20GroupHousekeepingFinalcompressed.pdf",
+      "local_file": "housekeeping-insurance.pdf"
+    },
+    {
+      "name": "โครงการตะกาฟุล เซฟวิ่ง 10/4",
+      "brochure_path": "/assets/21c4eb06-6789-49af-8c7d-827a35f60763.pdf",
+      "local_file": "takaful-saving-10-4.pdf"
+    },
+    {
+      "name": "เมืองไทยตะกาฟุลออมทรัพย์ 5/5",
+      "brochure_path": "/assets/7c7ae580-8e10-4788-9b1e-9337bac0cb3b/MuangthaiTakaful-Saving5-5.pdf",
+      "local_file": "takaful-saving-5-5.pdf"
+    },
+    {
+      "name": "ตะกาฟุลคุ้มครองตลอดชีพ 95/20",
+      "brochure_path": "/assets/0a0289f0-0823-46b6-acf7-0bc3fc07870b/MuanthaiTakaful-Wholelife9520.pdf",
+      "local_file": "takaful-wholelife-95-20.pdf"
+    },
+    {
+      "name": "PA Takaful Safety",
+      "brochure_path": "/assets/49b8d9b3-edbd-4f42-9d2f-88294fa763a0.pdf",
+      "local_file": "pa-takaful-safety.pdf"
+    }
+  ]
+}
